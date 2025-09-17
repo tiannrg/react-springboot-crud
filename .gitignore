@@ -1,0 +1,21 @@
+# Dependencias de Node.js (React)
+node_modules/
+
+# Archivos de compilación de Java (Maven/Gradle)
+target/
+build/
+*.jar
+*.war
+
+# Archivos de entorno y secretos
+.env
+.env.local
+application.properties
+
+# Logs
+*.log
+
+# Archivos de IDE y sistema operativo
+.vscode/
+.idea/
+.DS_Store
